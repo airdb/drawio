@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T07:22:35.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.6" etag="ljf3-OU_Vb585QhhkpJc" type="github"><diagram id="EA4EMiFavwpv9LEF_jwU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-17T07:31:13.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hYfsTlP0x1kPC4EIp-Bl" version="14.8.6" type="github">
+  <diagram id="EA4EMiFavwpv9LEF_jwU" name="Page-1">
+    <mxGraphModel dx="946" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JerWcSFArvtudROIIdq6-1" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-2" value="编码" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-3" value="测试" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-4" value="复杂度管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-5" value="数据结构算法" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-6" value="理解硬件" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-7" value="自动化" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-9" value="业务逻辑" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-13" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-14" value="&lt;font color=&quot;#ff8000&quot;&gt;解决业务问题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFB366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-15" value="&lt;font color=&quot;#00ff00&quot;&gt;解决机器的问题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=left;strokeColor=#33FF33;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="250" width="265" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JerWcSFArvtudROIIdq6-16" value="&lt;font color=&quot;#ff3333&quot;&gt;解决人问题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=left;strokeColor=#FF3333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="125" width="360" height="185" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

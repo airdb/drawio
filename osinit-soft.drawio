@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T10:29:33.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="crtRw-veqaJIx5wh0bmD" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T10:30:28.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="3rg9YOmvvmqBewPO4dlY" version="15.5.7" type="github">
   <diagram id="bArWBJNuVLb29TRbrBYO" name="Page-1">
     <mxGraphModel dx="1351" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XNvCActNa8ESoV5YzHep-33" value="Report Current Status or Error Message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#FF3333;" edge="1" parent="1" source="XNvCActNa8ESoV5YzHep-17" target="XNvCActNa8ESoV5YzHep-32">
+          <mxGeometry x="0.5915" y="-40" relative="1" as="geometry">
+            <mxPoint x="8" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-17" value="IaC Client Side" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="68" y="320" width="690" height="609.5" as="geometry" />
         </mxCell>

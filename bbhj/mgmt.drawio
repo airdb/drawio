@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T17:38:37.935Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xxk8ytAvMTJDirKFskS7" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T18:08:10.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6r2vVcSwm8-xOD6ZFBkk" version="15.9.6" type="github">
   <diagram id="Rh7d_q-UWcMXQ324UsMB" name="Page-1">
     <mxGraphModel dx="946" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-112" value="PMC Group" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=#B3B3B3;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-112" value="PMC" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=#B3B3B3;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=28;align=left;" vertex="1" parent="1">
           <mxGeometry x="260" y="510" width="1220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-26" value="" style="rounded=1;arcSize=10;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#FF3333;" vertex="1" parent="1">
@@ -13,10 +13,10 @@
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-13" value="NGO 1" style="rounded=1;fillColor=#fa6800;strokeColor=#C73500;shadow=1;fontStyle=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-14" value="PMC" style="rounded=1;fillColor=#FF6666;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-14" value="PIC" style="rounded=1;fillColor=#FF6666;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-15" value="运营" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-15" value="Ops" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-16" value="新媒体" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-21" value="技术" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-21" value="Tech" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="390" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="Ym5PI7sJgfRGB3oKuW9N-21">
@@ -85,10 +85,10 @@
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-74" value="" style="rounded=1;arcSize=10;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="640" y="843" width="199.5" height="199.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-75" value="PMC" style="rounded=1;fillColor=#FF6666;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-75" value="PIC" style="rounded=1;fillColor=#FF6666;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="760" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-76" value="运营" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-76" value="Ops" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-77" value="新媒体" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-80" value="技术" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-80" value="Tech" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="870" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="Ym5PI7sJgfRGB3oKuW9N-80">
@@ -151,10 +151,10 @@
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-91" value="" style="rounded=1;arcSize=10;dashed=1;dashPattern=1 1;strokeWidth=2;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1130" y="843" width="199.5" height="199.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-92" value="PMC" style="rounded=1;fillColor=#FF6666;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-92" value="PIC" style="rounded=1;fillColor=#FF6666;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1250" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-93" value="运营" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-93" value="Ops" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1130" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-94" value="新媒体" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
@@ -175,7 +175,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-97" value="技术" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Ym5PI7sJgfRGB3oKuW9N-97" value="Tech" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1360" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ym5PI7sJgfRGB3oKuW9N-98" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="Ym5PI7sJgfRGB3oKuW9N-97">

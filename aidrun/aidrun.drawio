@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T16:31:53.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="JFEnnethfwPjpkY6eT9X" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T16:33:00.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6ORyqdIQZJaHHUjOKz2P" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,30 +109,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BMi_75if2AgI-ZhPsUdE-12" value="后备力量" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#FF3333;fillColor=none;verticalAlign=top;align=center;fontColor=#FF9900;dashed=0;spacingTop=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="534.1" y="580" width="280" height="250" as="geometry" />
+          <mxGeometry x="534.1" y="580" width="285.9" height="310" as="geometry" />
         </mxCell>
         <mxCell id="BMi_75if2AgI-ZhPsUdE-13" value="专业救助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="594.1" y="610" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BMi_75if2AgI-ZhPsUdE-14" value="社会团体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="594.1" y="680" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BMi_75if2AgI-ZhPsUdE-14" value="社会团体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595.07" y="745" width="150" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="BMi_75if2AgI-ZhPsUdE-15" value="志愿者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="594.1" y="750" width="150" height="60" as="geometry" />
+          <mxGeometry x="595.07" y="815" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BMi_75if2AgI-ZhPsUdE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BMi_75if2AgI-ZhPsUdE-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="705" as="targetPoint" />
+            <mxPoint x="530" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BMi_75if2AgI-ZhPsUdE-20" value="公益人/志愿者：日常宣导" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#999999;fillColor=#CCCCCC;verticalAlign=top;align=center;fontColor=#FF9900;dashed=0;spacingTop=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="615" width="240" height="180" as="geometry" />
+          <mxGeometry x="104" y="710" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="BMi_75if2AgI-ZhPsUdE-22" value="急救知识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="650" width="130" height="40" as="geometry" />
+          <mxGeometry x="154" y="745" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BMi_75if2AgI-ZhPsUdE-23" value="风险意识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="710" width="130" height="40" as="geometry" />
+          <mxGeometry x="154" y="805" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMi_75if2AgI-ZhPsUdE-24" value="政府跨区调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595.07" y="615" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T02:00:45.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" version="17.1.4" etag="MYpgoS3c65-TM39hOrq_" type="github"><diagram id="Lj22Cs7bdpNFNDsxnH2v">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-25T02:46:45.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="Jm5h-l2uVBo3txENCDPq" version="17.1.4" type="github">
+  <diagram id="Lj22Cs7bdpNFNDsxnH2v" name="Page-1">
+    <mxGraphModel dx="946" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-3" value="行业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-4" value="技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-5" value="IaaS/PaaS/SaaS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-6" value="kernel/OS/db/cache/middleware&lt;br&gt;Application/framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-8" value="存储&lt;br&gt;分布式&lt;br&gt;带宽&lt;br&gt;计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="55" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-9" value="Big Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-10" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-11" value="分布式存储、流式计算&lt;br&gt;数据分析、数据挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-12" value="智能客服，人脸、图片识别&lt;br&gt;深度神经网络， 联邦学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-14" value="可观测&lt;br&gt;可用性&lt;br&gt;稳定性&lt;br&gt;设计模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MsU4HEIz5_8cRF91NyHN-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-15" value="了解行业、技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-17" value="选择方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-18" value="具体做什么" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-19" value="个人目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

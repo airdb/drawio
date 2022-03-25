@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T03:17:02.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="vb4bqnXTxHAkJEYX2Q4f" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T03:17:38.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="lyrXdipcxiywBjbcNHZ4" version="17.1.4" type="github">
   <diagram id="Lj22Cs7bdpNFNDsxnH2v" name="Page-1">
     <mxGraphModel dx="946" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,6 +95,12 @@
         </mxCell>
         <mxCell id="MsU4HEIz5_8cRF91NyHN-29" value="别人的能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-34" value="团队短期目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-35" value="团队长期目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

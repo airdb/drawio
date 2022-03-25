@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T02:46:57.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="bS2X1NR1NKmw7hAYWQty" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T03:10:18.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="242s8QpqTNAorXrP9I2b" version="17.1.4" type="github">
   <diagram id="Lj22Cs7bdpNFNDsxnH2v" name="Page-1">
     <mxGraphModel dx="946" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MsU4HEIz5_8cRF91NyHN-3" value="行业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="152" y="505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MsU4HEIz5_8cRF91NyHN-4" value="技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
@@ -53,6 +53,24 @@
         </mxCell>
         <mxCell id="MsU4HEIz5_8cRF91NyHN-19" value="个人目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-20" value="FinTech" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-21" value="电商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-24" value="制造业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-25" value="生活" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="851" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-26" value="中国进口&lt;br&gt;中国出口&lt;br&gt;物流仓储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MsU4HEIz5_8cRF91NyHN-27" value="存取贷&lt;br&gt;数字化 （基础IT）&lt;br&gt;风控&lt;br&gt;审计、监管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

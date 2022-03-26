@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T07:13:07.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="BFQ0hUUjJbjohCi0cgP2" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T07:15:29.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="LSkPOceqSoeBgs9ojppB" version="17.2.2" type="github">
   <diagram id="ZOSiHuWRT6jFkvALPaUp" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="3_8rjiuSaOk_IwYELfRZ-25" value="运营推广" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="730" width="80" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3_8rjiuSaOk_IwYELfRZ-26" value="新人培训" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.75" y="800" width="90.25" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

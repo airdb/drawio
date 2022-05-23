@@ -1,38 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T03:20:09.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="ah8Se_Qq2HB9hXqoQ2VY" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T03:42:11.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="oQs9TxEnMv7WE-UVkB_P" version="18.1.1" type="github">
   <diagram id="bArWBJNuVLb29TRbrBYO" name="Page-1">
-    <mxGraphModel dx="1358" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XNvCActNa8ESoV5YzHep-33" value="Report Current Status or Error Message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#FF3333;" parent="1" source="XNvCActNa8ESoV5YzHep-17" target="XNvCActNa8ESoV5YzHep-32" edge="1">
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-19" value="IaC Platform" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=20;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="750" height="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="XNvCActNa8ESoV5YzHep-33" value="Report Current Status or Error Message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#FF3333;" parent="1" target="XNvCActNa8ESoV5YzHep-32" edge="1">
           <mxGeometry x="0.5915" y="-40" relative="1" as="geometry">
             <mxPoint x="8" y="-24" as="offset" />
+            <mxPoint x="274" y="1300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-17" value="IaC Client Side" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="68" y="320" width="690" height="609.5" as="geometry" />
-        </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="XNvCActNa8ESoV5YzHep-1" target="XNvCActNa8ESoV5YzHep-3" edge="1">
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XNvCActNa8ESoV5YzHep-1" target="2OIhdxQt8RI3TchfqqJ3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-21" value="Reboot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="XNvCActNa8ESoV5YzHep-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.388" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="XNvCActNa8ESoV5YzHep-1" value="Stage 2 - Ramfs bootloader &amp; Install&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;dashPattern=8 4;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="298.25" y="760" width="261.75" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XNvCActNa8ESoV5YzHep-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0;exitY=0.532;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XNvCActNa8ESoV5YzHep-29" target="2OIhdxQt8RI3TchfqqJ3-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="710" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-1" value="Phase 2 - Ramfs bootloader &amp; Install&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#FF8000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="338" y="525" width="199.5" height="199.5" as="geometry" />
-        </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XNvCActNa8ESoV5YzHep-2" target="XNvCActNa8ESoV5YzHep-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-20" value="Reboot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="XNvCActNa8ESoV5YzHep-18" vertex="1" connectable="0">
-          <mxGeometry x="-0.3145" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-2" value="Phase 1 - Prepare reinstall&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#FF8000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="98" y="349.5" width="199.5" height="199.5" as="geometry" />
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.451;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XNvCActNa8ESoV5YzHep-3" target="XNvCActNa8ESoV5YzHep-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -44,11 +34,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-3" value="Phase 3 - Post install&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#FF8000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="536" y="709.5" width="199.5" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-4" value="K8S&#xa;Cluster" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="548" y="1050" width="199.5" height="199.5" as="geometry" />
+          <mxGeometry x="570" y="1540" width="199.5" height="199.5" as="geometry" />
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XNvCActNa8ESoV5YzHep-5" target="XNvCActNa8ESoV5YzHep-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -63,15 +50,17 @@
         <mxCell id="XNvCActNa8ESoV5YzHep-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1130" y="170" width="45" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.054;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XNvCActNa8ESoV5YzHep-8" target="XNvCActNa8ESoV5YzHep-2" edge="1">
+        <mxCell id="XNvCActNa8ESoV5YzHep-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XNvCActNa8ESoV5YzHep-8" target="2OIhdxQt8RI3TchfqqJ3-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="216" y="231" />
+              <mxPoint x="414" y="231" />
             </Array>
+            <mxPoint x="837.1399999999999" y="230.76" as="sourcePoint" />
+            <mxPoint x="215.36599999999999" y="445.01250000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-8" value="Ticket System" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="840" y="205" width="90" height="805" as="geometry" />
+          <mxGeometry x="950" y="220" width="90" height="1185" as="geometry" />
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XNvCActNa8ESoV5YzHep-11" target="XNvCActNa8ESoV5YzHep-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -82,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="1058.25" width="45" height="63" as="geometry" />
+          <mxGeometry x="1162" y="1548.25" width="45" height="63" as="geometry" />
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,26 +81,85 @@
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-16" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;SLA:&amp;nbsp; 12 Hours&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XNvCActNa8ESoV5YzHep-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1284" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="175" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="637" y="939.5" as="sourcePoint" />
-            <mxPoint x="827" y="940" as="targetPoint" />
+            <mxPoint x="780" y="1150" as="sourcePoint" />
+            <mxPoint x="950" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-29" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;1. Download OS tarball &amp;amp; ramfs&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;2. gather current os config (network)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;3. Install prams&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;4. checklist&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;5. change grub.conf&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="98" y="385" width="210" height="140" as="geometry" />
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XNvCActNa8ESoV5YzHep-1" target="2OIhdxQt8RI3TchfqqJ3-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;1.&amp;nbsp; enter ramfs (DHCP, PXE)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;2. kernel module, disk, nic-card&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;3. config network (bond) -&amp;gt;&amp;nbsp; call BE API&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;4. SSHD, disk operation(raid, mkfs, tar)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;5. OS config (network, firwall, bond)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;6. change grub.conf (fstab)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="350" y="559.75" width="220" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="XNvCActNa8ESoV5YzHep-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;1. OS custom config&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;2. re-check&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;3. cloud-init ( user-data )&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;4. call API.&amp;nbsp; (change process, status)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="548" y="760" width="210" height="90" as="geometry" />
+        <mxCell id="XNvCActNa8ESoV5YzHep-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;1.&amp;nbsp; enter ramfs&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;2. kernel module, disk, nic-card&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;3. config network (bond) -&amp;gt;&amp;nbsp; call BE API&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;4. SSHD, disk operation(raid, mkfs, tar)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;5. OS config (network, firwall, bond)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;6. change grub.conf (fstab)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="304" y="800" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XNvCActNa8ESoV5YzHep-32" value="&amp;nbsp;IaC&amp;nbsp; Management (API)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;strokeColor=#FF8000;fillColor=#FFFFFF;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="98" y="1040" width="326" height="241.75" as="geometry" />
+          <mxGeometry x="120" y="1530" width="326" height="241.75" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-1" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="440" width="210" height="199.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XNvCActNa8ESoV5YzHep-2" value="Stage 1 - OS reinstall&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#FF8000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=16;" parent="2OIhdxQt8RI3TchfqqJ3-1" vertex="1">
+          <mxGeometry width="199.5" height="199.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XNvCActNa8ESoV5YzHep-29" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;1. Download OS tarball &amp;amp; ramfs&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;2. gather current os config (network)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;3. Install prams&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;4. checklist&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;5. change grub.conf&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FF3333;" parent="2OIhdxQt8RI3TchfqqJ3-1" vertex="1">
+          <mxGeometry y="35.5" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-2" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="450" width="210" height="199.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-3" value="Stage 1 - PXE Intall&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#FF8000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="2OIhdxQt8RI3TchfqqJ3-2">
+          <mxGeometry width="199.5" height="199.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;1. Build Busybox ramfs&lt;br&gt;2. DHCP Service&lt;br&gt;3. tftp service&lt;br&gt;4. Ipmitool&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FF3333;" vertex="1" parent="2OIhdxQt8RI3TchfqqJ3-2">
+          <mxGeometry x="35" y="50.5" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2OIhdxQt8RI3TchfqqJ3-5" target="XNvCActNa8ESoV5YzHep-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OIhdxQt8RI3TchfqqJ3-5" target="2OIhdxQt8RI3TchfqqJ3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2OIhdxQt8RI3TchfqqJ3-7">
+          <mxGeometry x="-0.1372" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-5" value="soft-install" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2OIhdxQt8RI3TchfqqJ3-9" target="XNvCActNa8ESoV5YzHep-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-9" value="Reboot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="369.12" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2OIhdxQt8RI3TchfqqJ3-3" target="2OIhdxQt8RI3TchfqqJ3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2OIhdxQt8RI3TchfqqJ3-12" target="XNvCActNa8ESoV5YzHep-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-12" value="Reboot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="613.75" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-13" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="1040" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XNvCActNa8ESoV5YzHep-3" value="Phase 3 - Post install&#xa;" style="rounded=1;arcSize=10;dashed=1;strokeColor=#FF8000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;align=left;verticalAlign=top;" parent="2OIhdxQt8RI3TchfqqJ3-13" vertex="1">
+          <mxGeometry width="207.51773049645388" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XNvCActNa8ESoV5YzHep-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;1. OS custom config&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;2. re-check&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;3. cloud-init ( user-data )&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;4. call API.&amp;nbsp; (change process, status)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF3333;" parent="2OIhdxQt8RI3TchfqqJ3-13" vertex="1">
+          <mxGeometry x="1.5602836879432624" y="65.5" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-20" value="Error Report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2OIhdxQt8RI3TchfqqJ3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FF3333;" edge="1" parent="1" source="XNvCActNa8ESoV5YzHep-3" target="2OIhdxQt8RI3TchfqqJ3-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

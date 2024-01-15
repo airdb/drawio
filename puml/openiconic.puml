@@ -1,0 +1,5 @@
+@startuml
+title: <&heart> Demo <&heart>
+title: <&bug> Demo <&bug>
+
+@enduml

@@ -1,0 +1,39 @@
+@startuml oauth
+skinparam monochrome true
+skinparam text {
+    FontColor Success Green
+}
+
+actor Participant as User
+entity      Web      as Web
+entity      Gateway    as Gateway
+entity      Google as Google
+entity      App as App
+entity      Ram as Ram
+database    Database as Database
+User -> Web : Visit without login 
+Web -> Gateway: Login
+Gateway -> Google: Redirect to Google
+Google -> Google: Login with eamil and password
+Google -> Gateway: Redirect to Gateway
+Gateway -> Gateway: Save session
+Gateway -> Web: Oauth2_proxy Set Cookie
+
+
+User -> Web : Request with login
+Web -> Gateway: Oauth2_proxy send cookie
+Gateway -> App: Send Header X-Forwarded-Email
+App -> Ram: Get user info
+Ram -> Database: Get user info
+Ram -> App: Return user info
+
+App -> App: Create user if absent
+Ram -> Database: Create user info
+
+App -> App: Permission check
+App -> Web: Rejected if no permission
+
+App -> App: Action 
+App -> Web: Success <<FontColor Success>>
+
+@enduml

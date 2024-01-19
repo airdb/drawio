@@ -34,6 +34,6 @@ App -> App: Permission check
 App -> Web: Rejected if no permission
 
 App -> App: Action 
-App -> Web: Success <<FontColor Success>>
+App -> Web: Success
 
 @enduml
